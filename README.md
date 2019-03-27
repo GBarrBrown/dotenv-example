@@ -9,3 +9,5 @@ yarn
 
 #### To see it in action run:
 node bin/dev
+
+#### To change the values edit the .env file
